@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@700&family=Press+Start+2P&display=swap');
+body{
+    margin: 0;
+    background-color: #231651;
+    padding: 35px;
+    
+}
+
+.cont{
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    
+}
+
+header{
+color: #C4C4C4;
+background-color: #291F1A;
+font-family: 'Press Start 2P', cursive;
+margin: auto;
+font-size: 30px;
+padding: 50px;
+border-radius: 20px;
+position: sticky;
+}
+
+h1{
+text-align: center;
+font-family: 'Jura', sans-serif;
+color: #231651;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+    color:#291F1A; 
+    text-align: center;
+}
+p{
+    color: #231651;
+    font-family: 'Jura', sans-serif;
+    font-size: 30px;
+}
+
+footer{
+    background-color: #291F1A;
+    font-size: 20px;
+    padding: 40px;
+    text-align: center;
+    margin: 30px;
+    width: 60%;
+    position: relative;
+
+    border-radius: 20px;
+    
+    
+
+}
+.foot{
+    
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    color: #C4C4C4;
+}
+
+.zlodey{
+    text-decoration: none;
+    color: #BD2A2A;
+}
+
+.geroy{
+    color: #6B8741;
+    text-decoration: none;
+}
+
+.glav{
+    font-family: 'Press Start 2P', cursive;
+    color:#291F1A;
+    text-decoration: none;
+}
+
+.veb{
+    text-decoration: none;
+    color:#8E237A;
+}
+
+.kachestva{
+    color:#291F1A;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.kibragim-vnesh{
+height: 300px;
+width: 500px;
+color:#C4C4C4;
+border: 5px solid #231651;
+border-radius: 20px;
+
+}
